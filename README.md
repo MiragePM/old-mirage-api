@@ -1,1 +1,1 @@
-# mirage-node
+# quanta-node

@@ -2,3 +2,4 @@ nohup.out
 test_database.db
 log.txt
 go.sum
+.vscode/

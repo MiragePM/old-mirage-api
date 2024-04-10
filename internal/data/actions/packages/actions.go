@@ -3,8 +3,8 @@ package packages
 import (
 	"errors"
 
-	"github.com/zueffc/mirage-node/internal/data"
-	"github.com/zueffc/mirage-node/pkg/checker"
+	"github.com/zueffc/quanta-node/internal/data"
+	"github.com/zueffc/quanta-node/pkg/checker"
 )
 
 func Create(name, description, gitUrl string, authorId uint) error {

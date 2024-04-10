@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/zueffc/mirage-node/internal/data/actions/users"
+	"github.com/zueffc/quanta-node/internal/data/actions/users"
 )
 
 type UserQuery struct {

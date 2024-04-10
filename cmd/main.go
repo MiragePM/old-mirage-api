@@ -5,8 +5,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/qor/admin"
-	"github.com/zueffc/mirage-node/internal/controllers"
-	"github.com/zueffc/mirage-node/internal/data"
+	"github.com/zueffc/quanta-node/internal/controllers"
+	"github.com/zueffc/quanta-node/internal/data"
 )
 
 func main() {
